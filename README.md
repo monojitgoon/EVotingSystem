@@ -1,4 +1,4 @@
-EVotingSystem for App Engine Standard (Java 8)
+EVotingSystem for App Engine Standard (Java 8) - Distributed Systems and Middleware Assignment
 ============================
 
 
